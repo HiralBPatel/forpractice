@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Models & results
+results/
+models/
+
+# Dataset
+Final_images_phd/
+*.zip
+*.rar
+*.7z
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# ML files
+*.h5
+*.pkl
+*.npy
+*.npz
+
+# Logs
+*.log
+
+# Env
+.env
