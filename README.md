@@ -50,9 +50,9 @@ This project implements an end-to-end deep learning pipeline for automatic crop 
 | Model | Size | Speed | Accuracy | Use Case |
 |---|---|---|---|---|
 | CNN Baseline | Small | Fast | Medium | Research baseline |
-| MobileNetV2 | 14 MB | ⚡ Very Fast | 90-92% | Mobile deployment |
-| EfficientNetB0 | 29 MB | 🚀 Medium | 92-94% | Production |
-| ResNet50 | 98 MB | 🐢 Slower | 93-95% | High accuracy |
+| MobileNetV2 | 14 MB | ⚡ Very Fast | -- | Mobile deployment |
+| EfficientNetB0 | 29 MB | 🚀 Medium | -- | Production |
+| ResNet50 | 98 MB | 🐢 Slower | -- | High accuracy |
 
 ---
 
